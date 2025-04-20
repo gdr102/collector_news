@@ -18,3 +18,5 @@
 
 <img src="https://github.com/user-attachments/assets/9e3cbad5-f669-4c77-8f00-28599113aebd" width="300" title="Пример опубликованной статьи №1" alt="Пример опубликованной статьи №1" />
 <img src="https://github.com/user-attachments/assets/055ffb12-ae83-432c-8fcc-b70132cf0430" width="300" title="Пример опубликованной статьи №2" alt="Пример опубликованной статьи №2" />
+
+<p>Автор: <a href="https://t.me/comex_1">Telegram</a></p>
